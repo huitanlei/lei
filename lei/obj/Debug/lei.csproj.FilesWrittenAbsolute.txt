@@ -1,0 +1,5 @@
+/Users/xamarinclass/Projects/lei/lei/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/xamarinclass/Projects/lei/lei/bin/Debug/lei.dll.mdb
+/Users/xamarinclass/Projects/lei/lei/bin/Debug/lei.dll
+/Users/xamarinclass/Projects/lei/lei/obj/Debug/lei.dll
+/Users/xamarinclass/Projects/lei/lei/obj/Debug/lei.dll.mdb

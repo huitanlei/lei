@@ -1,0 +1,11 @@
+/Users/xamarinclass/Projects/lei/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/xamarinclass/Projects/lei/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/xamarinclass/Projects/lei/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/xamarinclass/Projects/lei/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/xamarinclass/Projects/lei/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/xamarinclass/Projects/lei/iOS/bin/iPhoneSimulator/Debug/lei.iOS.exe.mdb
+/Users/xamarinclass/Projects/lei/iOS/bin/iPhoneSimulator/Debug/lei.iOS.exe
+/Users/xamarinclass/Projects/lei/iOS/obj/iPhoneSimulator/Debug/lei.iOS.exe
+/Users/xamarinclass/Projects/lei/iOS/obj/iPhoneSimulator/Debug/lei.iOS.exe.mdb
+/Users/xamarinclass/Projects/lei/iOS/bin/iPhoneSimulator/Debug/lei.dll
+/Users/xamarinclass/Projects/lei/iOS/bin/iPhoneSimulator/Debug/lei.dll.mdb
